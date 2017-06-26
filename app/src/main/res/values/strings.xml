@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Challenger</string>
+    <string name="signUp_text">You aren\'t connected yet?</string>
+    <string name="signUp_activity">sign up</string>
+    <string name="signUp_text_2">in a few secs</string>
+    <string name="email_text">Email</string>
+    <string name="pw_text">Password</string>
 </resources>
