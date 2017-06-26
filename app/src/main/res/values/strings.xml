@@ -6,4 +6,8 @@
     <string name="email_text">Email</string>
     <string name="pw_text">Password</string>
     <string name="signIn_text">Sign in</string>
+    <string name="email_vergl_text">Repeat Email</string>
+    <string name="back_activity">Back</string>
+    <string name="signUp_title">SIGN UP</string>
+    <string name="signUp_subtitle">This will just take a few seconds \n Please fill in the following information</string>
 </resources>
